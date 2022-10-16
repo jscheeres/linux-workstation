@@ -1,6 +1,6 @@
 #!/bin/bash
 
-APPS="maim"
+APPS="maim git"
 
 sudo apt-get update
 sudo apt install -y $APPS
